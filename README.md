@@ -28,11 +28,11 @@
 </p>
 
 <div align="center"> 
-	<img alt="ignite-timer" title="#ignite-timer" src="./.github/banner-1.PNG" />
+	<img alt="ignite-timer" title="#ignite-timer" src="./.github/banner-1.png" />
 </div>
 
 <div align="center"> 
-	<img alt="ignite-timer" title="#ignite-timer" src="./.github/banner-2.PNG" />
+	<img alt="ignite-timer" title="#ignite-timer" src="./.github/banner-2.png" />
 </div>
 
 ## About
