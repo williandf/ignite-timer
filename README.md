@@ -20,7 +20,7 @@
 <p align="center">
   <a href="#about">About</a> •
   <a href="#features">Features</a> •
-  <a href="#figma">Figma</a>
+  <a href="#figma">Figma</a> •
   <a href="#how-it-works">How it works</a> • 
   <a href="#tech-stack">Tech Stack</a> • 
   <a href="#author">Author</a> • 
@@ -54,7 +54,7 @@ Project developed during the ReactJS Ignite Course from [Rocketseat](https://www
 
 ## Figma
 Download template of project
-https://www.figma.com/file/bw9F7YaOhODlxxhT85iaH0/Ignite-Timer-(Community)?t=lFX46ur3Zrfxrabh-0
+[Link Figma](https://www.figma.com/file/bw9F7YaOhODlxxhT85iaH0/Ignite-Timer-(Community)?t=lFX46ur3Zrfxrabh-0)
 
 ## How it works
 
